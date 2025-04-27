@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriyaSharma-code
-- 👀 I’m interested in deep learning, cloud computing and web development
-- 🌱 I’m currently learning about cloud computing
+- 👀 I’m experienced with Deep Learning, Cloud Computing and Full-Stack
+- 🌱 I’m currently working at Northern Trust as an Data Analyst
 - 💞️ I’m looking to collaborate on all kinds of projects
 - 📫 How to reach me : priyasharma.3321@gmail.com
 
